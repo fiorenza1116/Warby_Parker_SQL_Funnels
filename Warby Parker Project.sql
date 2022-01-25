@@ -1,4 +1,4 @@
--- Warby Parker Project
+-- Warby Parker Project 
 --	Objective: Analyze different Warby Parker's marketing funnels in order to calculate conversion rates
 
 

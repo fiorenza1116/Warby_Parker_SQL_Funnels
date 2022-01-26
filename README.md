@@ -10,6 +10,6 @@ Warby Parker is a transformative lifestyle brand with a lofty objective: to offe
 
 In this project, I will use fictional raw data provided by the data scientists at Warby Parker to analyze Warby Parker marketing funnels by calculating conversion rates and other means of data manipulation.
 
-### ***Instructions***
+### ***Instructions For Viewers***
 
 Explore the data tables in the [Data Table Folder](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels/tree/main/Data%20Tables). All questions and queries will be located in the [Warby Parker Project.sql](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels/blob/main/Warby%20Parker%20Project.sql) file. 
